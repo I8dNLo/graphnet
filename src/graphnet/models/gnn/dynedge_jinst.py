@@ -28,7 +28,6 @@ class DynEdgeJINST(GNN):
 
         Args:
             nb_inputs: Number of input features.
-            nb_outputs: Number of output features.
             layer_size_scale: Integer that scales the size of hidden layers.
         """
         # Architecture configuration
